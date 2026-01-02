@@ -1,0 +1,14 @@
+{
+  "name": "leetcode-javascript",
+  "version": "0.0.1",
+  "description": "JavaScript LeetCode solutions",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sbstudios",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
